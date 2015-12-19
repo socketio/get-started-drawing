@@ -1,0 +1,17 @@
+{
+  "name": "get-started-drawing",
+  "version": "0.1.0",
+  "description": "A simple whiteboard for Socket.io",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socketio/get-started-drawing.git"
+  },
+  "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/socketio/get-started-drawing/issues"
+  },
+  "homepage": "https://github.com/socketio/get-started-drawing#readme"
+}
